@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(165 180 252);
+}
+
+
+
+
+.divs:hover{
+    background-color: rgb(147 197 253);
+}
+
+a{
+    text-decoration: none;
+    text-decoration: black;
+}
+
+.color{
+    background-color: rgb(165 180 252);
+  
+}
+
