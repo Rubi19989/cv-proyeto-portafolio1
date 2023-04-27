@@ -63,7 +63,7 @@ const misCards = (responseRepos) => {
         let card = `
         <div class = "col-12 col-sm-6 col-lg-4
          text-center my-2  text-dark color  ">
-             <div class="card  bg-dark bg-opacity-10 m-8" style="height: 33rem; ">                 
+             <div class="card  bg-dark bg-opacity-10 m-8" style="height: 36rem; ">                 
                  <div class="card-body divs  ">
                     <h4 class="card-title my-3 ">Name: ${element.name}</h4>
                     <img src="./img/yoongi2.jpg" class="card-img-top ms-5" alt="img de una persona" style="width: 12rem;>
