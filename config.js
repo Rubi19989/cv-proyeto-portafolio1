@@ -1,5 +1,5 @@
 const variables = {
-    TOKEN_GITHUB: "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"
+    TOKEN_GITHUB: "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"
 }
 
 export default variables;
