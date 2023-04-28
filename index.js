@@ -1,6 +1,6 @@
 const container = document.querySelector("#container")
 
-
+import enviroment from "./config.js"
 
 
 const API = "https://api.gitHub.com/users/Rubi19989";
@@ -11,7 +11,7 @@ const fetchData = async (url) => {
     try {
         let options = {
             "headers":
-                { "Authorization": "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" }
+                { "Authorization": `token ${(enviroment.TOKEN_GITHUB)}` }
         }
 
         let response = await fetch(url, options)
