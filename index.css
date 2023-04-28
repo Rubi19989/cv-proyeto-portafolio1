@@ -9,7 +9,7 @@ body{
     background-color: rgb(147 197 253);
 }
 
-a{
+.claseA{
     text-decoration: none;
     text-decoration: black;
 }
@@ -19,3 +19,6 @@ a{
   
 }
 
+.color2{
+    background-color: chocolate;
+}
